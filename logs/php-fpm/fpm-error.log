@@ -1,0 +1,46 @@
+[11-Feb-2021 12:41:44] NOTICE: fpm is running, pid 1
+[11-Feb-2021 12:41:44] NOTICE: ready to handle connections
+[11-Feb-2021 12:44:24] NOTICE: Finishing ...
+[11-Feb-2021 12:44:24] NOTICE: exiting, bye-bye!
+[11-Feb-2021 12:44:32] NOTICE: fpm is running, pid 1
+[11-Feb-2021 12:44:32] NOTICE: ready to handle connections
+[11-Feb-2021 12:46:10] NOTICE: Finishing ...
+[11-Feb-2021 12:46:10] NOTICE: exiting, bye-bye!
+[11-Feb-2021 12:46:11] ALERT: [pool www] user has not been defined
+[11-Feb-2021 12:46:11] ERROR: failed to post process the configuration
+[11-Feb-2021 12:46:11] ERROR: FPM initialization failed
+[11-Feb-2021 12:46:22] ALERT: [pool www] user has not been defined
+[11-Feb-2021 12:46:22] ERROR: failed to post process the configuration
+[11-Feb-2021 12:46:22] ERROR: FPM initialization failed
+[11-Feb-2021 12:46:47] NOTICE: fpm is running, pid 1
+[11-Feb-2021 12:46:47] NOTICE: ready to handle connections
+[11-Feb-2021 12:48:10] NOTICE: Finishing ...
+[11-Feb-2021 12:48:10] NOTICE: exiting, bye-bye!
+[11-Feb-2021 12:48:10] NOTICE: fpm is running, pid 1
+[11-Feb-2021 12:48:10] NOTICE: ready to handle connections
+[11-Feb-2021 12:49:15] NOTICE: Finishing ...
+[11-Feb-2021 12:49:15] NOTICE: exiting, bye-bye!
+[11-Feb-2021 12:49:20] NOTICE: fpm is running, pid 1
+[11-Feb-2021 12:49:20] NOTICE: ready to handle connections
+[11-Feb-2021 12:51:45] NOTICE: Finishing ...
+[11-Feb-2021 12:51:45] NOTICE: exiting, bye-bye!
+[11-Feb-2021 13:01:44] NOTICE: fpm is running, pid 1
+[11-Feb-2021 13:01:44] NOTICE: ready to handle connections
+[11-Feb-2021 13:04:51] NOTICE: Finishing ...
+[11-Feb-2021 13:04:51] NOTICE: exiting, bye-bye!
+[11-Feb-2021 13:04:52] NOTICE: fpm is running, pid 1
+[11-Feb-2021 13:04:52] NOTICE: ready to handle connections
+[11-Feb-2021 13:05:31] NOTICE: Finishing ...
+[11-Feb-2021 13:05:31] NOTICE: exiting, bye-bye!
+[11-Feb-2021 13:05:32] NOTICE: fpm is running, pid 1
+[11-Feb-2021 13:05:32] NOTICE: ready to handle connections
+[11-Feb-2021 13:05:43] NOTICE: Finishing ...
+[11-Feb-2021 13:05:43] NOTICE: exiting, bye-bye!
+[11-Feb-2021 13:05:51] NOTICE: fpm is running, pid 1
+[11-Feb-2021 13:05:51] NOTICE: ready to handle connections
+[11-Feb-2021 13:07:34] NOTICE: Finishing ...
+[11-Feb-2021 13:07:34] NOTICE: exiting, bye-bye!
+[11-Feb-2021 13:10:50] NOTICE: fpm is running, pid 1
+[11-Feb-2021 13:10:50] NOTICE: ready to handle connections
+[11-Feb-2021 13:11:18] NOTICE: Finishing ...
+[11-Feb-2021 13:11:18] NOTICE: exiting, bye-bye!
