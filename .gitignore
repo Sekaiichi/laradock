@@ -1,0 +1,19 @@
+### Code ###
+.vscode/
+
+### PhpStorm ###
+.idea/
+
+.env
+
+data
+
+#docker-compose.yml
+
+etc
+
+/src/.php_cs.cache
+
+.php_cs.cache
+
+logs/
